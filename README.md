@@ -2,7 +2,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 2963b3a (no message)
 # amend 실습하기
@@ -20,7 +19,3 @@
 >>>>>>> a08109d (첫번째커밋추가)
 =======
 >>>>>>> parent of 2963b3a (no message)
-=======
-# amend 실습하기
-# 첫번째커밋
->>>>>>> parent of b876913 (사이트 제목 삭제)
